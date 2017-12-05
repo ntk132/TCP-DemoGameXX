@@ -1,0 +1,9 @@
+D:\VS 2015\GameXX\Client\Client\bin\Debug\Client.exe.config
+D:\VS 2015\GameXX\Client\Client\bin\Debug\Client.exe
+D:\VS 2015\GameXX\Client\Client\bin\Debug\Client.pdb
+D:\VS 2015\GameXX\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\VS 2015\GameXX\Client\Client\obj\Debug\Client.MainForm.resources
+D:\VS 2015\GameXX\Client\Client\obj\Debug\Client.Properties.Resources.resources
+D:\VS 2015\GameXX\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\VS 2015\GameXX\Client\Client\obj\Debug\Client.exe
+D:\VS 2015\GameXX\Client\Client\obj\Debug\Client.pdb
